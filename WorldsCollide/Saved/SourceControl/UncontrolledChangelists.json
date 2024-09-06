@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/worki/Documents/Unreal Projects/CardGameTest/BlackSwanStudios/WorldsCollide/Content/GridSystem/NewWorld.umap",
+				"C:/Users/worki/Documents/Unreal Projects/CardGameTest/BlackSwanStudios/WorldsCollide/Content/GridSystem/GridTestLevel.umap",
+				"C:/Users/worki/Documents/Unreal Projects/CardGameTest/BlackSwanStudios/WorldsCollide/Content/GridSystem/TerrainCube.uasset",
+				"C:/Users/worki/Documents/Unreal Projects/CardGameTest/BlackSwanStudios/WorldsCollide/Content/GridSystem/WorldGen.uasset",
+				"C:/Users/worki/Documents/Unreal Projects/CardGameTest/BlackSwanStudios/WorldsCollide/Content/GridSystem/TerrainData.uasset",
+				"C:/Users/worki/Documents/Unreal Projects/CardGameTest/BlackSwanStudios/WorldsCollide/Content/GridSystem/Chunk.uasset"
+			]
+		}
+	]
+}
