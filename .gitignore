@@ -21,3 +21,6 @@ Intermediate/*
 *.sdf
 *.VC.db
 *.VC.opendb
+
+# Cache files for the editor to use
+DerivedDataCache/*
