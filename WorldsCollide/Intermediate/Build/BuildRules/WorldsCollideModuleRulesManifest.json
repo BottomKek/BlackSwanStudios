@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\worki\\Documents\\Unreal Projects\\CardGameTest\\BlackSwanStudios\\WorldsCollide\\Source\\WorldsCollide\\WorldsCollide.Build.cs",
+		"C:\\Users\\worki\\Documents\\Unreal Projects\\CardGameTest\\BlackSwanStudios\\WorldsCollide\\Source\\WorldsCollide.Target.cs",
+		"C:\\Users\\worki\\Documents\\Unreal Projects\\CardGameTest\\BlackSwanStudios\\WorldsCollide\\Source\\WorldsCollideEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
