@@ -5,9 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Program Files/Epic Games/UE_5.4/Engine/Content/Maps/Templates/OpenWorld.umap",
+				"C:/Users/liamp/OneDrive/Documents/GitHub/BlackSwan/BlackSwanStudios/WorldsCollide/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/liamp/OneDrive/Documents/GitHub/BlackSwan/BlackSwanStudios/WorldsCollide/Content/Troops/BP_BaseTroop.uasset",
 				"C:/Users/hanne/Github Repositories/BlackSwanStudios/WorldsCollide/Content/Camera/BP_CameraPawn.uasset",
 				"C:/Users/hanne/Github Repositories/BlackSwanStudios/WorldsCollide/Content/Camera/BP_BaseGamemode.uasset",
-				"C:/Program Files/Epic Games/UE_5.4/Engine/Content/Maps/Templates/OpenWorld.umap",
 				"C:/Users/hanne/Github Repositories/BlackSwanStudios/WorldsCollide/Content/Controls/IA_CameraUp.uasset",
 				"C:/Users/hanne/Github Repositories/BlackSwanStudios/WorldsCollide/Content/Controls/IA_CameraDown.uasset",
 				"C:/Users/hanne/Github Repositories/BlackSwanStudios/WorldsCollide/Content/Controls/IA_CameraRight.uasset",
