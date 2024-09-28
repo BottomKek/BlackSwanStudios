@@ -1278,6 +1278,7 @@ Continue: Skip saving this asset only.
 [2024.09.27-22.33.26:390][431]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
 [2024.09.27-22.33.36:125][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
 [2024.09.27-22.33.36:127][460]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.013
+<<<<<<< Updated upstream
 [2024.09.27-22.34.09:033][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
 [2024.09.27-22.34.10:942][ 31]LogSlate: Window 'Save Content' being destroyed
 [2024.09.27-22.34.10:962][ 31]LogFileHelpers: InternalPromptForCheckoutAndSave started...
@@ -2090,3 +2091,5 @@ Continue: Skip saving this asset only.
 [2024.09.27-22.35.02:603][521]LogD3D12RHI: ~FD3D12DynamicRHI
 [2024.09.27-22.35.02:648][521]LogExit: Exiting.
 [2024.09.27-22.35.02:660][521]Log file closed, 09/27/24 18:35:02
+=======
+>>>>>>> Stashed changes
