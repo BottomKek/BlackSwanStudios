@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "WorldsCollide",
+			"Path": "..\\Source\\WorldsCollide.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "WorldsCollideEditor",
+			"Path": "..\\Source\\WorldsCollideEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
