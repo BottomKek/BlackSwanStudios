@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/liamp/OneDrive/Documents/GitHub/BlackSwan/BlackSwanStudios/WorldsCollide/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/liamp/OneDrive/Documents/GitHub/BlackSwan/BlackSwanStudios/WorldsCollide/Content/Troops/BP_BaseTroop.uasset",
+				"C:/Users/liamp/OneDrive/Documents/GitHub/BlackSwan/BlackSwanStudios/WorldsCollide/Content/HitDetection_NotfiyState.uasset",
+				"C:/Users/liamp/OneDrive/Documents/GitHub/BlackSwan/BlackSwanStudios/WorldsCollide/Content/AttackMontage.uasset",
+				"C:/Users/liamp/OneDrive/Documents/GitHub/BlackSwan/BlackSwanStudios/WorldsCollide/Content/Standing_Melee_Attack_Horizontal__1__Anim_mixamo_com1.uasset"
+			]
+		}
+	]
+}
