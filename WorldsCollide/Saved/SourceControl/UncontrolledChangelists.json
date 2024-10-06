@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/worki/OneDrive/Documents/GitHub/SocietySimulator/BlackSwanStudios/WorldsCollide/Content/FogOfWar/BP_DumbGarbageUseless.uasset",
+				"C:/Users/worki/OneDrive/Documents/GitHub/SocietySimulator/BlackSwanStudios/WorldsCollide/Content/FogOfWar/FogofWarRender.uasset",
+				"C:/Users/worki/OneDrive/Documents/GitHub/SocietySimulator/BlackSwanStudios/WorldsCollide/Content/FogOfWar/FogofWarManager.uasset",
+				"C:/Users/worki/OneDrive/Documents/GitHub/SocietySimulator/BlackSwanStudios/WorldsCollide/Content/FogOfWar/FogofWarDecal.uasset",
+				"C:/Users/worki/OneDrive/Documents/GitHub/SocietySimulator/BlackSwanStudios/WorldsCollide/Content/BuildSystem/Building/Building_Master_BP.uasset",
 				"C:/Users/liamp/OneDrive/Documents/GitHub/BlackSwan/BlackSwanStudios/WorldsCollide/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/liamp/OneDrive/Documents/GitHub/BlackSwan/BlackSwanStudios/WorldsCollide/Content/Troops/BP_BaseTroop.uasset",
 				"C:/Users/liamp/OneDrive/Documents/GitHub/BlackSwan/BlackSwanStudios/WorldsCollide/Content/HitDetection_NotfiyState.uasset",
